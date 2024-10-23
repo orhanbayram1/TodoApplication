@@ -1,32 +1,32 @@
-Spring Boot To-Do App
-Project Overview
-This is a simple to-do list application built with Spring Boot. 
+# Spring Boot To-Do App
+## Project Overview
+This is a simple to-do list application built with Spring Boot. <br/>
 The app provides the ability to add, edit, and delete to-do items with basic functionality, focusing on a clean structure and code readability.
 
-Features
+## Features
 Create new to-do items
-Edit existing to-do items
-Delete to-do items
-View a list of to-do items
-Data persistence with H2 database
-Thymeleaf for dynamic HTML rendering
+Edit existing to-do items <br/>
+Delete to-do items <br/>
+View a list of to-do items <br/> 
+Data persistence with H2 database <br/>
+Thymeleaf for dynamic HTML rendering <br/>
 
-Technologies That Used
-Java 21
-Spring Boot 3.3.4
-Spring Boot Starter Data JPA
-Spring Boot Starter Thymeleaf
-Spring Boot Starter Validation
-Spring Boot Starter Web
-Spring Boot DevTools
-H2 Database 
-Lombok
-Maven for project build management
+## Technologies That Used
+Java 21 <br/>
+Spring Boot 3.3.4 <br/> 
+Spring Boot Starter Data JPA <br/>
+Spring Boot Starter Thymeleaf <br/>
+Spring Boot Starter Validation <br/>
+Spring Boot Starter Web <br/>
+Spring Boot DevTools <br/>
+H2 Database  <br/>
+Lombok <br/>
+Maven for project build management <br/>
 
-Database Information
-The application uses the H2 in-memory database for temporary data storage.
-Access the H2 console at:
-http://localhost:8080/h2-console
-JDBC URL: jdbc:h2:mem:testdb
-Username: sa
-Password: (leave blank)
+## Database Information
+The application uses the H2 in-memory database for temporary data storage. <br/>
+Access the H2 console at: <br/> 
+'http://localhost:8080/h2-console' <br/>
+JDBC URL: jdbc:h2:mem:testdb <br/> 
+Username: sa <br/>
+Password: (leave blank) <br/>
