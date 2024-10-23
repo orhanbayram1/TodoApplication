@@ -34,7 +34,7 @@ public class TodoItem implements Serializable {
 	
 	
 	
-	}
+	
 
 		public String getDescription() {
 		return description;
